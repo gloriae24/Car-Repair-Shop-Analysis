@@ -45,7 +45,7 @@ car-repair-analysis/
 ## 🧾 Overview
 
 This project delivers a full-scale **data-driven analysis** of a car repair shop’s sales and operations using dimensional modeling, SQL querying, and **Power BI dashboards**. The insights help optimize service efficiency, customer retention, inventory control, and financial performance.
-
+![Dashboard Full View](PowerBI_Dashboard/screenshots/Dashboard1.png)
 ---
 
 ## 🧱 Dimensional Modeling (Part A)
