@@ -16,8 +16,7 @@ car-repair-analysis/
 │   └── analysis_queries.sql
 │
 ├── PowerBI_Dashboard/
-│   ├── repair_shop_dashboard.pbix
-│   ├── screenshots/
+│   ├── repair_shop_dashboard
 │   │   ├── customer_analysis.png
 │   │   ├── job_revenue.png
 │   │   └── vehicle_distribution.png
