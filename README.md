@@ -141,8 +141,7 @@ Design a sales-focused data warehouse schema to analyze:
 ## 📂 Repository Highlights
 
 - 📄 SQL Queries: [`SQL/analysis_queries.sql`](./SQL/analysis_queries.sql)
-- 📊 Dashboard File: [`repair_shop_dashboard.pbix`](./PowerBI_Dashboard/)
-- 📸 Dashboard Screenshots: [`PowerBI_Dashboard/screenshots/`](./PowerBI_Dashboard/screenshots/)
+- 📊 Dashboard File:[`PowerBI_Dashboard/screenshots/`](./PowerBI_Dashboard/screenshots/) 
 - 🗂 ERD & Schema Notes: [`Documentation/`](./Documentation/)
 
 ---
