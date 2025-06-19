@@ -61,7 +61,7 @@ Design a sales-focused data warehouse schema to analyze:
 - **Fact Table:** `fact_invoice`
 - **Dimensions:** `dim_customer`, `dim_vehicle`, `dim_job`, `dim_part`, `dim_date`
 
-📌 **ER Diagram:** [View PDF](./Documentation/ER_Diagram.pdf)
+📌 **ER Diagram:** [View PDF](./Documentation/EER DIAGRAM.pdf)
 
 ---
 
